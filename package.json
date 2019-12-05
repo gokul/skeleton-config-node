@@ -1,0 +1,14 @@
+{
+    "name": "config-node",
+    "version": "1.0.0",
+    "description": "Node-RED skeleton config node",
+    "main": "config-node.js",
+    "node-red": {
+        "nodes": {
+            "config-node": "config-node.js"
+        }
+    },
+    "dependencies": {
+        "request": "^2.88.0"
+    }
+}
